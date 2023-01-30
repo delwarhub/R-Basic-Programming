@@ -35,3 +35,5 @@ In this tutorial you will learn the following topics in practice.
 - R Max and Min
 - R Mean Median Mode
 - R Percentiles
+
+Ref: https://www.w3schools.com/r/default.asp
